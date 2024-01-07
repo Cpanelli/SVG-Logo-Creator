@@ -2,6 +2,10 @@
 
 ## Overview
 
+
+Uploading Screen Recording 2024-01-08 at 6.31.16 AM.mov…
+
+
 This is a simple Node.js command-line application that allows users to generate SVG logos based on their input. Users can customize the text, shape, text color, and shape color.
 
 ## Features
