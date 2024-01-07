@@ -1,5 +1,14 @@
 {
+  "name": "logo-generator",
+  "version": "1.0.0",
+  "description": "Node.js command-line application for generating logos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "inquirer": "^9.2.12"
+    "inquirer": "^8.2.0",
+    "svg-builder": "^1.0.0"
   }
+  
 }
