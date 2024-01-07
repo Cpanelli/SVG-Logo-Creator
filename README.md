@@ -3,7 +3,7 @@
 ## Overview
 
 
-Uploading Screen Recording 2024-01-08 at 6.31.16 AM.mov…
+https://github.com/Cpanelli/SVG-Logo-Creator/assets/133393733/dc60e7c7-28b8-4759-9dbf-18147fc4d4a9
 
 
 This is a simple Node.js command-line application that allows users to generate SVG logos based on their input. Users can customize the text, shape, text color, and shape color.
@@ -20,9 +20,13 @@ This is a simple Node.js command-line application that allows users to generate 
 
 ## Getting Started
 
+
+Uploading Screen Recording 2024-01-08 at 6.31.16 AM.mov…
+
+
 1. Clone the repository:
 
-   git clone https://github.com/your-username/svg-logo-creator.git
+   git clone https://github.com/your-cpanelli/svg-logo-creator.git
    cd svg-logo-creator
 
 2. Install dependencies:
